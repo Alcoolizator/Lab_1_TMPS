@@ -1,6 +1,6 @@
 # Lab_1_TMPS - Calculator App in Python
 
-## by Plesca Alexandru
+## by Plesca Alexandru 
 
 ## Task : Build an app that will follow SOLID Principles using an OOP programing language
 
